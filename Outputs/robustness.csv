@@ -1,0 +1,25 @@
+
+========================================================================================================
+                                                  Likelihood of Disease in Last 6 Months                
+                                  Chickens and other Poultry Goats and Sheep    Cattle     Whole Sample 
+                                             (1)                   (2)            (3)           (4)     
+--------------------------------------------------------------------------------------------------------
+uses antibiotics prophylactically           0.497                36.494          3.801         4.903    
+                                          t = -1.037          t = 3.577***    t = 1.659*   t = 5.402*** 
+                                                                                                        
+goes primarily to public vet                0.499                 0.074          0.327         0.576    
+                                          t = -1.510           t = -1.954*    t = -1.294    t = -1.724* 
+                                                                                                        
+number of animals in flock / herd           1.000                 1.007          1.118         1.001    
+                                          t = 0.262             t = 0.342     t = 2.332**  t = 3.519*** 
+                                                                                                        
+Constant                                    13.457                0.073          0.092         0.493    
+                                         t = 3.831***         t = -3.081***  t = -3.085*** t = -3.123***
+                                                                                                        
+N                                            212                   59             49            320     
+Log Likelihood                             -83.237               -17.344        -24.694      -162.569   
+Akaike Inf. Crit.                          174.474               42.688         57.388        333.138   
+========================================================================================================
+Notes:                                                            ***Significant at the 1 percent level.
+                                                                   **Significant at the 5 percent level.
+                                                                   *Significant at the 10 percent level.

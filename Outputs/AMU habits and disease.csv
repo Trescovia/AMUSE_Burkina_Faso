@@ -1,0 +1,25 @@
+
+==========================================================================================================================
+                                                                    Likelihood of Disease in Last 6 Months                
+                                                    Chickens and other Poultry Goats and Sheep    Cattle     Whole Sample 
+                                                               (1)                   (2)            (3)           (4)     
+--------------------------------------------------------------------------------------------------------------------------
+uses antibiotics prophylactically                             0.599                20.654          4.043         5.454    
+                                                            t = -0.786          t = 3.260***    t = 1.767*   t = 5.791*** 
+                                                                                                                          
+believes that antibiotics can be used for fattening           1.404                 0.645          1.054         0.975    
+                                                            t = 0.839            t = -0.455      t = 0.073    t = -0.090  
+                                                                                                                          
+number of animals in flock / herd                             1.000                 1.008          1.098         1.001    
+                                                            t = -0.029            t = 0.378     t = 2.017**  t = 3.253*** 
+                                                                                                                          
+Constant                                                      8.213                 0.069          0.082         0.428    
+                                                           t = 3.307***         t = -2.810***  t = -3.039*** t = -3.362***
+                                                                                                                          
+N                                                              212                   59             49            320     
+Log Likelihood                                               -83.991               -19.891        -25.624      -164.051   
+Akaike Inf. Crit.                                            175.982               47.782         59.248        336.102   
+==========================================================================================================================
+Notes:                                                                              ***Significant at the 1 percent level.
+                                                                                     **Significant at the 5 percent level.
+                                                                                     *Significant at the 10 percent level.

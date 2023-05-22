@@ -1,0 +1,45 @@
+
+====================================================================================================
+                                                 Likelihood of Using Antibiotics Nontherapeutically 
+                                                            (1)                       (2)           
+----------------------------------------------------------------------------------------------------
+formal education level score                               1.174                     1.125          
+                                                         t = 1.336                 t = 0.895        
+                                                                                                    
+goes primarily to community animal health worker           1.063                     1.627          
+                                                         t = 0.131                 t = 0.882        
+                                                                                                    
+goes primarily to public vet                               0.184                     0.325          
+                                                       t = -3.162***              t = -1.852*       
+                                                                                                    
+goes primarily to unqualified private vet                  0.475                     0.644          
+                                                         t = -1.311                t = -0.663       
+                                                                                                    
+goes primarily to qualified private vet                    0.393                     0.716          
+                                                         t = -1.507                t = -0.476       
+                                                                                                    
+professional provides diagnosis and treatment              1.737                     1.100          
+                                                         t = 1.706*                t = 0.257        
+                                                                                                    
+number of animals in flock / herd                          1.002                     1.001          
+                                                        t = 6.221***               t = 1.862*       
+                                                                                                    
+chicken farm                                                                         13.843         
+                                                                                  t = 5.189***      
+                                                                                                    
+goat or sheep farm                                                                   0.983          
+                                                                                   t = -0.034       
+                                                                                                    
+cow farm                                                                                            
+                                                                                                    
+                                                                                                    
+Constant                                                   0.610                     0.251          
+                                                         t = -1.101               t = -2.311**      
+                                                                                                    
+N                                                           312                       312           
+Log Likelihood                                            -149.550                  -130.008        
+Akaike Inf. Crit.                                         315.101                   280.016         
+====================================================================================================
+Notes:                                                        ***Significant at the 1 percent level.
+                                                               **Significant at the 5 percent level.
+                                                               *Significant at the 10 percent level.

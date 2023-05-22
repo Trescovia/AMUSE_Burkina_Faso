@@ -1,0 +1,42 @@
+
+========================================================================================
+                                                 Likelihood of Disease in Last 6 Months 
+                                                         (1)                 (2)        
+----------------------------------------------------------------------------------------
+formal education level score                            0.875               0.762       
+                                                     t = -1.210         t = -1.975**    
+                                                                                        
+goes primarily to community animal health worker        0.944               1.075       
+                                                     t = -0.135           t = 0.136     
+                                                                                        
+goes primarily to public vet                            0.328               0.464       
+                                                    t = -2.414**         t = -1.362     
+                                                                                        
+goes primarily to unqualified private vet               0.674               0.864       
+                                                     t = -0.752          t = -0.219     
+                                                                                        
+goes primarily to qualified private vet                 0.569               0.883       
+                                                     t = -1.019          t = -0.183     
+                                                                                        
+number of animals in flock / herd                       1.002               1.000       
+                                                    t = 5.694***          t = 0.130     
+                                                                                        
+chicken farm                                                               20.789       
+                                                                        t = 6.721***    
+                                                                                        
+goat or sheep farm                                                          0.559       
+                                                                         t = -1.194     
+                                                                                        
+cow farm                                                                                
+                                                                                        
+                                                                                        
+Constant                                                1.488               0.671       
+                                                      t = 0.920          t = -0.687     
+                                                                                        
+N                                                        312                 312        
+Log Likelihood                                        -170.991            -130.097      
+Akaike Inf. Crit.                                      355.982             278.195      
+========================================================================================
+Notes:                                            ***Significant at the 1 percent level.
+                                                   **Significant at the 5 percent level.
+                                                   *Significant at the 10 percent level.

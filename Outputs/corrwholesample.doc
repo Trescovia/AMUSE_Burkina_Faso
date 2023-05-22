@@ -1,0 +1,367 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">Whole Sample</caption>
+<tr>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">&nbsp;</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">num_animals</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">disease_lastmonth</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">disease_last6month</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">disease_lastyear</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">disease_alltime</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">human_drugs_farmwide</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">nontherapeutic_abx</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">prophylactic_abx</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">fattening_vacc_attitude</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">fattening_amu_attitude</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">prophylactic_amu_attitude</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">education</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">public_vet</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">comm_animal_health__worker</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">qual_priv_vet</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">unqual_priv_vet</th>
+<th style="font-style:italic; font-weight:normal; border-top:double black; border-bottom:1px solid black; padding:0.2cm;">prof_diagn_treat</th>
+</tr>
+<tr>
+<td style="font-style:italic;">num_animals</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">disease_lastmonth</td>
+<td style="padding:0.2cm; text-align:center;">0.243<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">disease_last6month</td>
+<td style="padding:0.2cm; text-align:center;">0.270<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.430<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">disease_lastyear</td>
+<td style="padding:0.2cm; text-align:center;">0.249<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.385<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.897<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">disease_alltime</td>
+<td style="padding:0.2cm; text-align:center;">0.201<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.342<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.796<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.888<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">human_drugs_farmwide</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.013<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.097<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.042<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.038<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.033<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">nontherapeutic_abx</td>
+<td style="padding:0.2cm; text-align:center;">0.318<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.221<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.483<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.478<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.402<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.042<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">prophylactic_abx</td>
+<td style="padding:0.2cm; text-align:center;">0.318<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.221<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.483<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.478<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.402<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.042<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">1.000<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">fattening_vacc_attitude</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.088<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.005<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.015<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.028<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.057<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.041<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.017<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.017<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">fattening_amu_attitude</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.030<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.085<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.034<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.038<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.031<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.048<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.104<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.104<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.470<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">prophylactic_amu_attitude</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.032<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.060<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.027<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.006<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.022<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.024<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.171<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center;">0.171<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center;">0.296<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.265<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">education</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.098<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.061<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.028<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.004<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.011<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.058<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.097<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.097<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.048<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.051<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.248<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">public_vet</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.109<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.004<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">-0.120<span style="vertical-align:super;font-size:0.8em;">*</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.090<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.075<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.033<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">-0.157<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center;">-0.157<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.011<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.044<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.019<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.007<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">comm_animal_health__worker</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.102<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.050<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.097<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.115<span style="vertical-align:super;font-size:0.8em;">*</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.076<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.046<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.162<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center;">0.162<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.038<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.022<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.052<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.074<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">-0.480<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">qual_priv_vet</td>
+<td style="padding:0.2cm; text-align:center;">0.169<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.020<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.015<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.001<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.028<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.020<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.019<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.019<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.010<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.038<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.012<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.118<span style="vertical-align:super;font-size:0.8em;">*</span></td>
+<td style="padding:0.2cm; text-align:center;">-0.212<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">-0.295<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">unqual_priv_vet</td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.087<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.085<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.043<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.059<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.030<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.020<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.081<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.081<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.005<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.103<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.004<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.011<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">-0.205<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">-0.286<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">-0.126<span style="vertical-align:super;font-size:0.8em;">*</span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-style:italic;">prof_diagn_treat</td>
+<td style="padding:0.2cm; text-align:center;">0.200<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.221<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.404<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.492<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center;">0.596<span style="vertical-align:super;font-size:0.8em;">***</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.059<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.176<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center;">0.176<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.026<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.039<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.025<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">-0.001<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.168<span style="vertical-align:super;font-size:0.8em;">**</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.001<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">0.127<span style="vertical-align:super;font-size:0.8em;">*</span></td>
+<td style="padding:0.2cm; text-align:center; color:#999999;">0.007<span style="vertical-align:super;font-size:0.8em;"></span></td>
+<td style="padding:0.2cm; text-align:center;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="18" style="border-bottom:double black; border-top:1px solid black; font-style:italic; font-size:0.9em; text-align:right;">Computed correlation used pearson-method with listwise-deletion.</td>
+</tr>
+ 
+</table>

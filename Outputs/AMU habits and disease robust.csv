@@ -1,0 +1,33 @@
+
+===========================================================================================
+                                                    Likelihood of Disease in Last 6 Months 
+                                                            (1)                 (2)        
+-------------------------------------------------------------------------------------------
+uses antibiotics prophylactically                          5.454               2.130       
+                                                       t = 5.791***         t = 2.082**    
+                                                                                           
+believes that antibiotics can be used for fattening        0.975               1.304       
+                                                        t = -0.090           t = 0.839     
+                                                                                           
+number of animals in flock / herd                          1.001               1.000       
+                                                       t = 3.253***         t = -0.256     
+                                                                                           
+chicken farm                                                                  10.642       
+                                                                           t = 5.271***    
+                                                                                           
+goat or sheep farm                                                             0.490       
+                                                                            t = -1.497     
+                                                                                           
+cow farm                                                                                   
+                                                                                           
+                                                                                           
+Constant                                                   0.428               0.288       
+                                                       t = -3.362***       t = -3.305***   
+                                                                                           
+N                                                           320                 320        
+Log Likelihood                                           -164.051            -138.004      
+Akaike Inf. Crit.                                         336.102             288.007      
+===========================================================================================
+Notes:                                               ***Significant at the 1 percent level.
+                                                      **Significant at the 5 percent level.
+                                                      *Significant at the 10 percent level.
